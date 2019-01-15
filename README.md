@@ -6,5 +6,3 @@
 4. Launch the assignment from within visual studio
 
 # I have selected the GNU license to protect my IP without the constraints of a MIT license
-
-test change
